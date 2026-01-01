@@ -3,7 +3,7 @@
 **Version 2.0**  
 **Initial Release – January 01, 2026**
 
-Welcome to **Frequency Generator** – the fun, accurate, and educational guitar tuner & frequency explorer proudly made in Australia!
+Welcome to **Frequency Generator** – the educational guitar tuner & frequency explorer proudly made in Australia!
 
 Frequency Generator combines a precise real-time guitar tuner with powerful tools to explore sound, resonance, and even nuclear physics frequencies – all in one playful, easy-to-use app.
 
