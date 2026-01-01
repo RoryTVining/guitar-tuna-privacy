@@ -1,11 +1,11 @@
-# Guitar Tuna – Release Notes
+# Frequency Generator – Release Notes
 
-**Version 1.0**  
+**Version 2.0**  
 **Initial Release – January 01, 2026**
 
-Welcome to **Guitar Tuna** – the fun, accurate, and educational guitar tuner & frequency explorer proudly made in Australia!
+Welcome to **Frequency Generator** – the fun, accurate, and educational guitar tuner & frequency explorer proudly made in Australia!
 
-Guitar Tuna combines a precise real-time guitar tuner with powerful tools to explore sound, resonance, and even nuclear physics frequencies – all in one playful, easy-to-use app.
+Frequency Generator combines a precise real-time guitar tuner with powerful tools to explore sound, resonance, and even nuclear physics frequencies – all in one playful, easy-to-use app.
 
 ### Key Features
 
@@ -35,7 +35,7 @@ Guitar Tuna combines a precise real-time guitar tuner with powerful tools to exp
 - Optimized for phones and tablets
 
 ### Educational Value
-Guitar Tuna is designed as a hands-on learning tool for:
+Frequency Generator is designed as a hands-on learning tool for:
 - Music students developing perfect pitch
 - Physics students exploring waves and resonance
 - Science teachers demonstrating acoustic principles
